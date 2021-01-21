@@ -1,30 +1,4 @@
 
-  <script type="text/javascript">
-    (function () {
-      var dayStr = '01/18';
-      if (/^\d{1,2}\/\d{1,2}$/.test(dayStr)) {
-        dayStr = new Date().getFullYear() + '/' + dayStr;
-      }
-      if (!/^\d{4}\/\d{1,2}\/\d{1,2}$/.test(dayStr)) {
-        return ;
-      }
-      var day = new Date(dayStr);
-      var now = new Date();
-      var isMemorialDay = now.getFullYear() === day.getFullYear() && now.getMonth() === day.getMonth() && now.getDate() === day.getDate();
-      if (isMemorialDay) {
-        if (document.all) {
-          window.style = 'html {     -webkit-filter: grayscale(100%); /* webkit */     -moz-filter: grayscale(100%); /* firefox */     -ms-filter: grayscale(100%); /* ie9 */     -o-filter: grayscale(100%); /* opera */     filter: grayscale(100%);     filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1); filter:gray; /* ie9- */   }';
-          document.createStyleSheet('javascript:style');
-        } else {
-          var style = document.createElement('style');
-          style.type = 'text/css';
-          style.innerHTML = 'html {     -webkit-filter: grayscale(100%); /* webkit */     -moz-filter: grayscale(100%); /* firefox */     -ms-filter: grayscale(100%); /* ie9 */     -o-filter: grayscale(100%); /* opera */     filter: grayscale(100%);     filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1); filter:gray; /* ie9- */   }';
-          document.getElementsByTagName('HEAD').item(0).appendChild(style);
-        }
-      }
-    })();
-  </script>
-  
 
 <!DOCTYPE html>
 <html lang="en" data-default-color-scheme=&#34;auto&#34;>
@@ -295,7 +269,7 @@
 <p>本博客所有文章不用做任何商业用途，在引用其他版权作品和智力成果的同时，也会尽量注明出处。如果不慎疏忽，出现不合理言论或侵权行为，请通过以下联系方式联系我，我会及时更正或删除。</p>
 <ul>
 <li>QQ：312857696</li>
-<li>E-Mail：<a href="mailto:&#111;&#x6e;&#x74;&#x68;&#x69;&#110;&#x6b;&#64;&#x66;&#111;&#x78;&#x6d;&#97;&#x69;&#108;&#x2e;&#x63;&#111;&#x6d;">&#111;&#x6e;&#x74;&#x68;&#x69;&#110;&#x6b;&#64;&#x66;&#111;&#x78;&#x6d;&#97;&#x69;&#108;&#x2e;&#x63;&#111;&#x6d;</a></li>
+<li>E-Mail：<a href="mailto:&#111;&#x6e;&#x74;&#x68;&#x69;&#110;&#x6b;&#64;&#x66;&#111;&#120;&#x6d;&#97;&#105;&#108;&#x2e;&#99;&#x6f;&#109;">&#111;&#x6e;&#x74;&#x68;&#x69;&#110;&#x6b;&#64;&#x66;&#111;&#120;&#x6d;&#97;&#105;&#108;&#x2e;&#99;&#x6f;&#109;</a></li>
 </ul>
 <p><strong>愿互联网共享精神之光永远闪耀！</strong></p>
 

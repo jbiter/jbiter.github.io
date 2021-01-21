@@ -1,30 +1,4 @@
 
-  <script type="text/javascript">
-    (function () {
-      var dayStr = '01/18';
-      if (/^\d{1,2}\/\d{1,2}$/.test(dayStr)) {
-        dayStr = new Date().getFullYear() + '/' + dayStr;
-      }
-      if (!/^\d{4}\/\d{1,2}\/\d{1,2}$/.test(dayStr)) {
-        return ;
-      }
-      var day = new Date(dayStr);
-      var now = new Date();
-      var isMemorialDay = now.getFullYear() === day.getFullYear() && now.getMonth() === day.getMonth() && now.getDate() === day.getDate();
-      if (isMemorialDay) {
-        if (document.all) {
-          window.style = 'html {     -webkit-filter: grayscale(100%); /* webkit */     -moz-filter: grayscale(100%); /* firefox */     -ms-filter: grayscale(100%); /* ie9 */     -o-filter: grayscale(100%); /* opera */     filter: grayscale(100%);     filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1); filter:gray; /* ie9- */   }';
-          document.createStyleSheet('javascript:style');
-        } else {
-          var style = document.createElement('style');
-          style.type = 'text/css';
-          style.innerHTML = 'html {     -webkit-filter: grayscale(100%); /* webkit */     -moz-filter: grayscale(100%); /* firefox */     -ms-filter: grayscale(100%); /* ie9 */     -o-filter: grayscale(100%); /* opera */     filter: grayscale(100%);     filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1); filter:gray; /* ie9- */   }';
-          document.getElementsByTagName('HEAD').item(0).appendChild(style);
-        }
-      }
-    })();
-  </script>
-  
 
 <!DOCTYPE html>
 <html lang="en" data-default-color-scheme=&#34;auto&#34;>
@@ -229,7 +203,7 @@
     
     <span class="post-meta mr-2">
       <i class="iconfont icon-chart"></i>
-      345 Words
+      341 Words
     </span>
   
 
@@ -273,7 +247,7 @@
             
             <div class="markdown-body">
               <h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>第一篇不知道要写点儿什么，索性就先写一写我折腾着搭建博客的过程吧。整个过程非常简单，自己摸索一下也完全可以搞定。</p>
-<h1 id="配置环境"><a href="#配置环境" class="headerlink" title="配置环境"></a>配置环境</h1><p>Hexo是一款很优秀的静态博客引擎。它可以搭配很多类型的模板引擎，可以解析Markdown在内的多种文件类型，将它们输出为静态的HTML文件以供部署。需要准备的环境有：</p>
+<h1 id="配置环境"><a href="#配置环境" class="headerlink" title="配置环境"></a>配置环境</h1><p>Hexo是一款静态博客引擎。它可以搭配很多类型的模板引擎，可以解析Markdown在内的多种文件类型，将它们输出为静态的HTML文件以供部署。需要准备的环境有：</p>
 <ul>
 <li>macOS/Linux/Windows</li>
 <li>Node.js</li>
