@@ -203,7 +203,7 @@
     
     <span class="post-meta mr-2">
       <i class="iconfont icon-chart"></i>
-      400 Words
+      422 Words
     </span>
   
 
@@ -266,7 +266,7 @@
 <h1 id="使用github-io托管"><a href="#使用github-io托管" class="headerlink" title="使用github.io托管"></a>使用github.io托管</h1><p>在GitHub中新建一个repo，命名为<code>username.github.io</code>。注意，username必须使用的GitHub用户名，否则无法直接通过github.io提供的二级域名访问。</p>
 <p>在Hexo的配置文件<code>_config.yml</code>中进行如下配置</p>
 <figure class="highlight yaml"><table><tr><td class="gutter hljs"><div class="hljs code-wrapper"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></div></td><td class="code"><div class="hljs code-wrapper"><pre><code class="hljs yaml"><span class="hljs-comment"># Deployment</span><br><span class="hljs-comment">## Docs: https://hexo.io/docs/one-command-deployment</span><br><span class="hljs-attr">deploy:</span><br>  <span class="hljs-attr">type:</span> <span class="hljs-string">git</span><br>  <span class="hljs-attr">repo:</span> <span class="hljs-string">git@github.com:jbiter/jbiter.github.io.git</span><br>  <span class="hljs-attr">branch:</span> <span class="hljs-string">main</span><br></code></pre></div></td></tr></table></figure>
-<p>确保项目中已经安装了用于发布博客的依赖<code>hexo-deployer-git</code>，使用Hexo CLI提供的命令即可将博客发布到github.io中。</p>
+<p>确保项目中已经安装了用于发布博客的依赖<code>hexo-deployer-git</code>，使用Hexo CLI提供的命令即可将博客发布到github.io中。发布前新建<code>source/CNAME</code>文件，若未解析自定义域名，留空即可。</p>
 <figure class="highlight bash"><table><tr><td class="gutter hljs"><div class="hljs code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><div class="hljs code-wrapper"><pre><code class="hljs bash">hexo generate --deploy<br></code></pre></div></td></tr></table></figure>
 <h1 id="有用的依赖"><a href="#有用的依赖" class="headerlink" title="有用的依赖"></a>有用的依赖</h1><figure class="highlight javascript"><table><tr><td class="gutter hljs"><div class="hljs code-wrapper"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></div></td><td class="code"><div class="hljs code-wrapper"><pre><code class="hljs javascript"><span class="hljs-string">&quot;dependencies&quot;</span>: &#123;<br>    <span class="hljs-string">&quot;hexo-deployer-git&quot;</span> <span class="hljs-comment">// 用于自动化发布博客</span><br>    <span class="hljs-string">&quot;hexo-generator-sitemap&quot;</span><br>    <span class="hljs-string">&quot;hexo-generator-baidu-sitemap&quot;</span> <span class="hljs-comment">// 生成站点地图</span><br>  	<span class="hljs-string">&quot;hexo-memorial-day&quot;</span> <span class="hljs-comment">// 在纪念日将网站置灰</span><br>  &#125;<br></code></pre></div></td></tr></table></figure>
 
