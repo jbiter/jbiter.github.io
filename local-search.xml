@@ -8,7 +8,7 @@
     <link href="/post/%E5%9C%A8%E5%86%85%E7%BD%91%E7%8E%AF%E5%A2%83%E4%B8%AD%E9%85%8D%E7%BD%AEJupyter-Notebook%E6%9C%8D%E5%8A%A1.html"/>
     <url>/post/%E5%9C%A8%E5%86%85%E7%BD%91%E7%8E%AF%E5%A2%83%E4%B8%AD%E9%85%8D%E7%BD%AEJupyter-Notebook%E6%9C%8D%E5%8A%A1.html</url>
     
-    <content type="html"><![CDATA[<script type="math/tex; mode=display">\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t</script>]]></content>
+    <content type="html"><![CDATA[<script type="math/tex; mode=display">\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t</script><pre><code class=" mermaid">classDiagramClass01 &lt;|-- AveryLongClass : CoolClass03 *-- Class04Class05 o-- Class06Class07 .. Class08Class09 --&gt; C2 : Where am i?Class09 --* C3Class09 --|&gt; Class07Class07 : equals()Class07 : Object[] elementDataClass01 : size()Class01 : int chimpClass01 : int gorillaClass08 &lt;--&gt; C2: Cool label</code></pre>]]></content>
     
     
     <categories>

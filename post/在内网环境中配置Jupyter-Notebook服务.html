@@ -203,7 +203,7 @@
     
     <span class="post-meta mr-2">
       <i class="iconfont icon-chart"></i>
-      13 Words
+      54 Words
     </span>
   
 
@@ -247,7 +247,22 @@
             
             <div class="markdown-body">
               <script type="math/tex; mode=display">
-\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t</script>
+\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t</script><pre><code class=" mermaid">classDiagram
+Class01 &lt;|-- AveryLongClass : Cool
+Class03 *-- Class04
+Class05 o-- Class06
+Class07 .. Class08
+Class09 --&gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+Class08 &lt;--&gt; C2: Cool label
+</code></pre>
+
             </div>
             <hr>
             <div>
@@ -513,6 +528,13 @@
 
 
 
+
+  <script  src="https://cdn.jsdelivr.net/npm/mermaid@8.8.3/dist/mermaid.min.js" ></script>
+  <script>
+    if (window.mermaid) {
+      mermaid.initialize({"theme":"default"});
+    }
+  </script>
 
 
 
