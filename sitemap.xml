@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jbiter.github.io/README.html</loc>
+    
+    <lastmod>2021-03-02</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://jbiter.github.io/post/%E5%9C%A8%E5%86%85%E7%BD%91%E7%8E%AF%E5%A2%83%E4%B8%AD%E9%85%8D%E7%BD%AEJupyter-Notebook%E6%9C%8D%E5%8A%A1.html</loc>
     
     <lastmod>2021-01-31</lastmod>
@@ -39,7 +46,7 @@
 
   <url>
     <loc>https://jbiter.github.io/</loc>
-    <lastmod>2021-03-01</lastmod>
+    <lastmod>2021-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -47,28 +54,28 @@
   
   <url>
     <loc>https://jbiter.github.io/tags/Jupyter-Notebook/</loc>
-    <lastmod>2021-03-01</lastmod>
+    <lastmod>2021-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jbiter.github.io/tags/Hexo/</loc>
-    <lastmod>2021-03-01</lastmod>
+    <lastmod>2021-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jbiter.github.io/tags/Markdown/</loc>
-    <lastmod>2021-03-01</lastmod>
+    <lastmod>2021-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jbiter.github.io/tags/Mermaid/</loc>
-    <lastmod>2021-03-01</lastmod>
+    <lastmod>2021-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -77,14 +84,14 @@
   
   <url>
     <loc>https://jbiter.github.io/categories/Data-Science/</loc>
-    <lastmod>2021-03-01</lastmod>
+    <lastmod>2021-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jbiter.github.io/categories/Practice/</loc>
-    <lastmod>2021-03-01</lastmod>
+    <lastmod>2021-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
