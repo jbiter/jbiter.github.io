@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jbiter.github.io/p/dec09abb.html</loc>
+    
+    <lastmod>2022-11-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://jbiter.github.io/tags/index.html</loc>
     
     <lastmod>2022-11-05</lastmod>
@@ -20,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://jbiter.github.io/about/index.html</loc>
+    <loc>https://jbiter.github.io/categories/index.html</loc>
     
     <lastmod>2022-11-05</lastmod>
     
@@ -29,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://jbiter.github.io/categories/index.html</loc>
+    <loc>https://jbiter.github.io/about/index.html</loc>
     
     <lastmod>2022-11-05</lastmod>
     
@@ -129,15 +138,6 @@
   
   <url>
     <loc>https://jbiter.github.io/p/a0d750ba.html</loc>
-    
-    <lastmod>2022-11-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jbiter.github.io/p/dec09abb.html</loc>
     
     <lastmod>2022-11-05</lastmod>
     
@@ -246,13 +246,6 @@
   </url>
   
   <url>
-    <loc>https://jbiter.github.io/tags/Research/</loc>
-    <lastmod>2022-11-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://jbiter.github.io/tags/%E7%86%B5%E6%9D%83%E6%B3%95/</loc>
     <lastmod>2022-11-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -275,6 +268,13 @@
   
   <url>
     <loc>https://jbiter.github.io/tags/%E7%BB%BC%E5%90%88%E8%AF%84%E4%BB%B7/</loc>
+    <lastmod>2022-11-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jbiter.github.io/tags/Research/</loc>
     <lastmod>2022-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
