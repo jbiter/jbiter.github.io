@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>ASM相关概念起源与发展</title>
+    <link href="/p/3d1e9cc3.html"/>
+    <url>/p/3d1e9cc3.html</url>
+    
+    <content type="html"><![CDATA[<h2 id="1-攻击面"><a href="#1-攻击面" class="headerlink" title="1 攻击面"></a>1 攻击面</h2><h3 id="1-1-概念起源"><a href="#1-1-概念起源" class="headerlink" title="1.1 概念起源"></a>1.1 概念起源</h3><h3 id="1-2-一般化定义"><a href="#1-2-一般化定义" class="headerlink" title="1.2 一般化定义"></a>1.2 一般化定义</h3><h3 id="1-3-一般识别与研究过程"><a href="#1-3-一般识别与研究过程" class="headerlink" title="1.3 一般识别与研究过程"></a>1.3 一般识别与研究过程</h3><h3 id="1-4-攻击面基本模型"><a href="#1-4-攻击面基本模型" class="headerlink" title="1.4 攻击面基本模型"></a>1.4 攻击面基本模型</h3><h4 id="1-4-1-枚举模型"><a href="#1-4-1-枚举模型" class="headerlink" title="1.4.1 枚举模型"></a>1.4.1 枚举模型</h4><h4 id="1-4-2-关联模型"><a href="#1-4-2-关联模型" class="headerlink" title="1.4.2 关联模型"></a>1.4.2 关联模型</h4><h4 id="1-4-3-图模型"><a href="#1-4-3-图模型" class="headerlink" title="1.4.3 图模型"></a>1.4.3 图模型</h4><h2 id="2-攻击面管理"><a href="#2-攻击面管理" class="headerlink" title="2 攻击面管理"></a>2 攻击面管理</h2><h2 id="3-外部攻击面管理"><a href="#3-外部攻击面管理" class="headerlink" title="3 外部攻击面管理"></a>3 外部攻击面管理</h2><h2 id="4-网络资产攻击面管理"><a href="#4-网络资产攻击面管理" class="headerlink" title="4 网络资产攻击面管理"></a>4 网络资产攻击面管理</h2><h2 id="5-结论"><a href="#5-结论" class="headerlink" title="5 结论"></a>5 结论</h2><ol><li>攻击面管理只是实践概念，没有明确的理论起源，攻击面有；</li><li>但攻击面没有统一明确的理论概念；</li><li>攻击面和攻击面管理的概念并不是相伴而生或延续产生的，而是分别产生的；</li></ol><blockquote><p>攻击面缘于对于信息资产本身的评估和度量</p><p>攻击面管理缘于安全管理和安全运营活动</p></blockquote><ol><li>攻击面起源时就不是纯粹的技术概念，在实践过程中产生了分化；</li><li>攻击面概念的提出就伴随着攻击面的评估和量化，因此评估和量化本身就是攻击面管理工作的基础；</li><li>攻击面管理含义要远远广于资产发现，无论是概念内涵还是实践内容。</li></ol><h2 id="6-问题"><a href="#6-问题" class="headerlink" title="6 问题"></a>6 问题</h2><ol><li>资产到底指的是？</li><li>信息安全业界除了安全运营还有什么？安全规划（体系/标准）、安全运营、（风险评估/渗透测试/安全运维/审计）技术</li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>默认分类</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Private</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>科学网访问设置记录</title>
+    <link href="/p/921c5808.html"/>
+    <url>/p/921c5808.html</url>
+    
+    <content type="html"><![CDATA[<h2 id="1-访问用户主页"><a href="#1-访问用户主页" class="headerlink" title="1 访问用户主页"></a>1 访问用户主页</h2><h3 id="1-1-尚未开通博客"><a href="#1-1-尚未开通博客" class="headerlink" title="1.1 尚未开通博客"></a>1.1 尚未开通博客</h3><p><a href="https://blog.sciencenet.cn/home.php?mod=space&amp;uid=1287688">https://blog.sciencenet.cn/home.php?mod=space&amp;uid=1287688</a></p><h3 id="1-2-已开通博客但未激活"><a href="#1-2-已开通博客但未激活" class="headerlink" title="1.2 已开通博客但未激活"></a>1.2 已开通博客但未激活</h3><p><a href="https://blog.sciencenet.cn/home.php?mod=space&amp;uid=771826">https://blog.sciencenet.cn/home.php?mod=space&amp;uid=771826</a></p><h3 id="1-3-隐私设置"><a href="#1-3-隐私设置" class="headerlink" title="1.3 隐私设置"></a>1.3 隐私设置</h3><h4 id="1-3-1-非登录用户不能访问"><a href="#1-3-1-非登录用户不能访问" class="headerlink" title="1.3.1 非登录用户不能访问"></a>1.3.1 非登录用户不能访问</h4><p> <a href="https://blog.sciencenet.cn/home.php?mod=space&amp;uid=41174">https://blog.sciencenet.cn/home.php?mod=space&amp;uid=41174</a></p><h4 id="1-3-2-非好友不能访问："><a href="#1-3-2-非好友不能访问：" class="headerlink" title="1.3.2 非好友不能访问："></a>1.3.2 非好友不能访问：</h4><p><a href="https://blog.sciencenet.cn/home.php?mod=space&amp;uid=5905">https://blog.sciencenet.cn/home.php?mod=space&amp;uid=5905</a></p><h4 id="1-3-3-部分数据未公开"><a href="#1-3-3-部分数据未公开" class="headerlink" title="1.3.3 部分数据未公开"></a>1.3.3 部分数据未公开</h4><p>（1）统计数据</p><p> <a href="https://blog.sciencenet.cn/home.php?mod=space&amp;uid=299">https://blog.sciencenet.cn/home.php?mod=space&amp;uid=299</a></p><p> <a href="https://blog.sciencenet.cn/home.php?mod=space&amp;uid=303939">https://blog.sciencenet.cn/home.php?mod=space&amp;uid=303939</a></p><p>（2）仅显示个人资料</p><p><a href="https://blog.sciencenet.cn/home.php?mod=space&amp;uid=3477223">https://blog.sciencenet.cn/home.php?mod=space&amp;uid=3477223</a></p><p>（3）不能访问好友列表</p><p><a href="https://blog.sciencenet.cn/home.php?mod=space&amp;uid=41174">https://blog.sciencenet.cn/home.php?mod=space&amp;uid=41174</a></p><p>（4）不能访问主页，但也可以通过隐私提醒页访问好友列表</p><p><a href="https://blog.sciencenet.cn/home.php?mod=space&amp;uid=707113">https://blog.sciencenet.cn/home.php?mod=space&amp;uid=707113</a></p><p>（5）需注意好友列表有部分用户已注销</p><p><a href="https://blog.sciencenet.cn/home.php?mod=space&amp;uid=303458&amp;do=friend&amp;view=me&amp;from=space">https://blog.sciencenet.cn/home.php?mod=space&amp;uid=303458&amp;do=friend&amp;view=me&amp;from=space</a></p><h3 id="1-4-没有博文"><a href="#1-4-没有博文" class="headerlink" title="1.4 没有博文"></a>1.4 没有博文</h3><p><a href="https://blog.sciencenet.cn/home.php?mod=space&amp;uid=3413938&amp;do=blog&amp;view=me&amp;from=space">https://blog.sciencenet.cn/home.php?mod=space&amp;uid=3413938&amp;do=blog&amp;view=me&amp;from=space</a></p><h2 id="2-访问评论"><a href="#2-访问评论" class="headerlink" title="2 访问评论"></a>2 访问评论</h2><h3 id="2-1-没有评论"><a href="#2-1-没有评论" class="headerlink" title="2.1 没有评论"></a>2.1 没有评论</h3><p><a href="https://blog.sciencenet.cn/blog-2374-1313955.html">https://blog.sciencenet.cn/blog-2374-1313955.html</a></p><h3 id="2-2-一条评论"><a href="#2-2-一条评论" class="headerlink" title="2.2 一条评论"></a>2.2 一条评论</h3><p><a href="https://blog.sciencenet.cn/blog-2374-1315823.html">https://blog.sciencenet.cn/blog-2374-1315823.html</a></p><h3 id="2-3-多条评论"><a href="#2-3-多条评论" class="headerlink" title="2.3 多条评论"></a>2.3 多条评论</h3><p><a href="https://blog.sciencenet.cn/blog-304685-897096.html">https://blog.sciencenet.cn/blog-304685-897096.html</a></p><h3 id="2-4-多条评论带格式化回复"><a href="#2-4-多条评论带格式化回复" class="headerlink" title="2.4 多条评论带格式化回复"></a>2.4 多条评论带格式化回复</h3><p>需注意评论中带有链接的情况</p><p><a href="https://blog.sciencenet.cn/blog-41174-1304376.html">https://blog.sciencenet.cn/blog-41174-1304376.html</a></p><p><a href="https://blog.sciencenet.cn/blog-1557-1314299.html">https://blog.sciencenet.cn/blog-1557-1314299.html</a></p><p><a href="https://blog.sciencenet.cn/blog-1557-1683.html">https://blog.sciencenet.cn/blog-1557-1683.html</a></p><p><a href="https://blog.sciencenet.cn/blog-1557-1670.html">https://blog.sciencenet.cn/blog-1557-1670.html</a></p><h3 id="2-5-多条评论带文本回复"><a href="#2-5-多条评论带文本回复" class="headerlink" title="2.5 多条评论带文本回复"></a>2.5 多条评论带文本回复</h3><p><a href="https://blog.sciencenet.cn/blog-829-14668.html">https://blog.sciencenet.cn/blog-829-14668.html</a></p><h3 id="2-6-思考对于游客用户的处理"><a href="#2-6-思考对于游客用户的处理" class="headerlink" title="2.6 思考对于游客用户的处理"></a>2.6 思考对于游客用户的处理</h3><p>需要重新反思profile解析方法</p><p><a href="https://blog.sciencenet.cn/blog-1557-3467.html">https://blog.sciencenet.cn/blog-1557-3467.html</a></p><p><a href="https://blog.sciencenet.cn/blog-829-12824.html">https://blog.sciencenet.cn/blog-829-12824.html</a></p><h3 id="2-7-评论被删除的情况"><a href="#2-7-评论被删除的情况" class="headerlink" title="2.7 评论被删除的情况"></a>2.7 评论被删除的情况</h3><p>用户可能被注销</p><p><a href="https://blog.sciencenet.cn/blog-475-1272518.html">https://blog.sciencenet.cn/blog-475-1272518.html</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>默认分类</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Private</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>线性变换与非线性变换</title>
+    <link href="/p/ebaec183.html"/>
+    <url>/p/ebaec183.html</url>
+    
+    <content type="html"><![CDATA[<h2 id="4-其它的数据变换方式"><a href="#4-其它的数据变换方式" class="headerlink" title="4 其它的数据变换方式"></a>4 其它的数据变换方式</h2><h3 id="4-1-线性变换与非线性变换"><a href="#4-1-线性变换与非线性变换" class="headerlink" title="4.1 线性变换与非线性变换"></a>4.1 线性变换与非线性变换</h3><h3 id="4-2-其它线性变换的方式"><a href="#4-2-其它线性变换的方式" class="headerlink" title="4.2 其它线性变换的方式"></a>4.2 其它线性变换的方式</h3><h4 id="4-2-1-中心化"><a href="#4-2-1-中心化" class="headerlink" title="4.2.1 中心化"></a>4.2.1 中心化</h4><h3 id="4-3-其它非线性变换的方式"><a href="#4-3-其它非线性变换的方式" class="headerlink" title="4.3 其它非线性变换的方式"></a>4.3 其它非线性变换的方式</h3><h4 id="4-3-1-log变换"><a href="#4-3-1-log变换" class="headerlink" title="4.3.1 log变换"></a>4.3.1 log变换</h4><h4 id="4-3-2-atan变换"><a href="#4-3-2-atan变换" class="headerlink" title="4.3.2 atan变换"></a>4.3.2 atan变换</h4><h4 id="4-3-3-sigmoid变换"><a href="#4-3-3-sigmoid变换" class="headerlink" title="4.3.3 sigmoid变换"></a>4.3.3 sigmoid变换</h4><h4 id="4-3-4-softmax变换"><a href="#4-3-4-softmax变换" class="headerlink" title="4.3.4 softmax变换"></a>4.3.4 softmax变换</h4><h4 id="4-3-5-box-cox变换"><a href="#4-3-5-box-cox变换" class="headerlink" title="4.3.5 box-cox变换"></a>4.3.5 box-cox变换</h4>]]></content>
+    
+    
+    <categories>
+      
+      <category>默认分类</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Private</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>熵权法的原理与实现</title>
+    <link href="/p/8bce49a1.html"/>
+    <url>/p/8bce49a1.html</url>
+    
+    <content type="html"><![CDATA[<h2 id="0-熵"><a href="#0-熵" class="headerlink" title="0 熵"></a>0 熵</h2><h2 id="1-原理"><a href="#1-原理" class="headerlink" title="1 原理"></a>1 原理</h2><h3 id="1-1-原理"><a href="#1-1-原理" class="headerlink" title="1.1 原理"></a>1.1 原理</h3><h4 id="1-1-1-原理"><a href="#1-1-1-原理" class="headerlink" title="1.1.1 原理"></a>1.1.1 原理</h4>]]></content>
+    
+    
+    <categories>
+      
+      <category>默认分类</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Private</tag>
+      
+      <tag>熵权法</tag>
+      
+      <tag>客观赋权</tag>
+      
+      <tag>权重</tag>
+      
+      <tag>综合评价</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>无量纲化方法的分析与选择</title>
+    <link href="/p/64a8f9fe.html"/>
+    <url>/p/64a8f9fe.html</url>
+    
+    <content type="html"><![CDATA[<h2 id="0-无量纲化"><a href="#0-无量纲化" class="headerlink" title="0 无量纲化"></a>0 无量纲化</h2><h2 id="1-概念辨析"><a href="#1-概念辨析" class="headerlink" title="1 概念辨析"></a>1 概念辨析</h2><h3 id="1-1-概念"><a href="#1-1-概念" class="headerlink" title="1.1 概念"></a>1.1 概念</h3><h4 id="1-1-1-标准化（Standardization）"><a href="#1-1-1-标准化（Standardization）" class="headerlink" title="1.1.1 标准化（Standardization）"></a>1.1.1 标准化（Standardization）</h4><h4 id="1-1-2-归一化（Normalization）"><a href="#1-1-2-归一化（Normalization）" class="headerlink" title="1.1.2 归一化（Normalization）"></a>1.1.2 归一化（Normalization）</h4><h3 id="1-2-联系与差异"><a href="#1-2-联系与差异" class="headerlink" title="1.2 联系与差异"></a>1.2 联系与差异</h3><h4 id="1-2-1-联系"><a href="#1-2-1-联系" class="headerlink" title="1.2.1 联系"></a>1.2.1 联系</h4><h4 id="1-2-2-差异"><a href="#1-2-2-差异" class="headerlink" title="1.2.2 差异"></a>1.2.2 差异</h4><h2 id="2-常用方法"><a href="#2-常用方法" class="headerlink" title="2 常用方法"></a>2 常用方法</h2><h3 id="2-1-标准化常用方法"><a href="#2-1-标准化常用方法" class="headerlink" title="2.1 标准化常用方法"></a>2.1 标准化常用方法</h3><h4 id="2-1-1-z-score标准化"><a href="#2-1-1-z-score标准化" class="headerlink" title="2.1.1 z-score标准化"></a>2.1.1 z-score标准化</h4><h3 id="2-2-归一化常用方法"><a href="#2-2-归一化常用方法" class="headerlink" title="2.2 归一化常用方法"></a>2.2 归一化常用方法</h3><h4 id="2-2-1-min-max归一化"><a href="#2-2-1-min-max归一化" class="headerlink" title="2.2.1 min-max归一化"></a>2.2.1 min-max归一化</h4><h4 id="2-2-2-mean归一化"><a href="#2-2-2-mean归一化" class="headerlink" title="2.2.2 mean归一化"></a>2.2.2 mean归一化</h4><h2 id="3-几个需要解决的问题"><a href="#3-几个需要解决的问题" class="headerlink" title="3 几个需要解决的问题"></a>3 几个需要解决的问题</h2><h3 id="3-1-为什么要进行数据的标准化和归一化？"><a href="#3-1-为什么要进行数据的标准化和归一化？" class="headerlink" title="3.1 为什么要进行数据的标准化和归一化？"></a>3.1 为什么要进行数据的标准化和归一化？</h3><h3 id="3-2-是否所有情况都需要进行标准化和归一化？"><a href="#3-2-是否所有情况都需要进行标准化和归一化？" class="headerlink" title="3.2 是否所有情况都需要进行标准化和归一化？"></a>3.2 是否所有情况都需要进行标准化和归一化？</h3><h3 id="3-3-两种变换方法应该如何选择？"><a href="#3-3-两种变换方法应该如何选择？" class="headerlink" title="3.3 两种变换方法应该如何选择？"></a>3.3 两种变换方法应该如何选择？</h3><h2 id="5-总结"><a href="#5-总结" class="headerlink" title="5 总结"></a>5 总结</h2><p>线性与非线性变换</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>默认分类</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Private</tag>
+      
+      <tag>无量纲化</tag>
+      
+      <tag>标准化</tag>
+      
+      <tag>归一化</tag>
+      
+      <tag>数据变换</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>使用Python下载文件</title>
+    <link href="/p/57718f05.html"/>
+    <url>/p/57718f05.html</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    <categories>
+      
+      <category>默认分类</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Private</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Scrapy爬虫集成SQLAlchemy</title>
+    <link href="/p/a0d750ba.html"/>
+    <url>/p/a0d750ba.html</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    <categories>
+      
+      <category>默认分类</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Private</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Scrapy爬虫框架</title>
+    <link href="/p/dec09abb.html"/>
+    <url>/p/dec09abb.html</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    <categories>
+      
+      <category>默认分类</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Private</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>模型设计与仿真实验大纲</title>
+    <link href="/p/9e8a856a.html"/>
+    <url>/p/9e8a856a.html</url>
+    
+    <content type="html"><![CDATA[<h2 id="1-模型的构建"><a href="#1-模型的构建" class="headerlink" title="1 模型的构建"></a>1 模型的构建</h2><h3 id="1-1-获取样本数据"><a href="#1-1-获取样本数据" class="headerlink" title="1.1 获取样本数据"></a>1.1 获取样本数据</h3><ul><li><p>选取小木虫中一个（或多个？）板块的内容，通过网络爬虫获取样本数据。主要包括用户、帖子、评论与回复数据。</p></li><li><p>抓取数据的结构：</p></li></ul><p><img src="../../img/post/study/worm_data_struct.png" alt="数据结构" style="zoom: 37%;" /></p><h3 id="1-2-分析数据"><a href="#1-2-分析数据" class="headerlink" title="1.2 分析数据"></a>1.2 分析数据</h3><h4 id="1-2-1-微观数据"><a href="#1-2-1-微观数据" class="headerlink" title="1.2.1 微观数据"></a>1.2.1 微观数据</h4><ul><li>每个用户发帖数、评论数、回复数、点赞数</li><li>每个帖子的浏览数、评论数、回复数</li><li>每个评论的点赞数</li><li>其他？</li></ul><h4 id="1-2-2-宏观数据"><a href="#1-2-2-宏观数据" class="headerlink" title="1.2.2 宏观数据"></a>1.2.2 宏观数据</h4><ul><li>总用户数</li><li>总帖子数</li><li>总浏览数</li><li>总评论数</li><li>总回复数</li><li>总点赞数</li><li>平均发帖数/用户</li><li>发帖数数学期望</li><li>平均浏览数/帖子</li><li>平均评论数/帖子</li><li>平均点赞数/评论</li><li>浏览、发帖、评论、回复、点赞数的统计概率</li><li>使用贝叶斯公式计算浏览后进行其他行为的条件概率</li></ul><h3 id="1-3-抽象主体模型和关系结构"><a href="#1-3-抽象主体模型和关系结构" class="headerlink" title="1.3 抽象主体模型和关系结构"></a>1.3 抽象主体模型和关系结构</h3><ul><li><p>Agent（用户）</p><p>属性：发帖数、评论数、回复数、点赞数</p><p>行为：发帖、评论、回复、点赞</p></li><li><p>主体关系</p><p>使用用户和主题帖之间的关系构建一个二分图、通过用户与主题帖之间的数量关系确定联系和联系强度，再将此二分图映射为一个仅包含智能主体的加权无向（有向？）图。</p></li></ul><h3 id="1-4-研究主体和关系结构"><a href="#1-4-研究主体和关系结构" class="headerlink" title="1.4 研究主体和关系结构"></a>1.4 研究主体和关系结构</h3><p>使用复杂网络理论对结构进行研究，主要包括：</p><h4 id="1-4-1-Node（Agent）"><a href="#1-4-1-Node（Agent）" class="headerlink" title="1.4.1 Node（Agent）"></a>1.4.1 Node（Agent）</h4><ul><li>节点的维度</li><li>节点的度</li><li>节点的强度</li><li>度和强度的分布</li></ul><h4 id="1-4-2-Edge（Relation）"><a href="#1-4-2-Edge（Relation）" class="headerlink" title="1.4.2 Edge（Relation）"></a>1.4.2 Edge（Relation）</h4><ul><li>路径</li><li>连通性</li><li>聚类系数</li><li>稀疏性与稠密度</li></ul><p>通过以上的研究，结合典型的复杂网络模型，对小木虫社区知识交流样本数据网络进行定性（利用？）。</p><h2 id="2-仿真系统的设计"><a href="#2-仿真系统的设计" class="headerlink" title="2 仿真系统的设计"></a>2 仿真系统的设计</h2><h3 id="2-1-主体类"><a href="#2-1-主体类" class="headerlink" title="2.1 主体类"></a>2.1 主体类</h3><pre><code class=" mermaid">classDiagram    class User    User : + Integer post    User : + List(tuple) comment    User : + List(tuple) recomment    User : + List(tuple) praise    User : + browse(implements interface Browse)    User : + comment(implements interface Comment)    User : + recomment(implements interface Comment)    User : + praise(impelments interface Praise)</code></pre><h3 id="2-2-行为接口"><a href="#2-2-行为接口" class="headerlink" title="2.2 行为接口"></a>2.2 行为接口</h3><pre><code class=" mermaid">classDiagramclass Browse &#123;    &lt;&lt;interface&gt;&gt;    return Boolean    input: List(posted users)&#125;</code></pre><pre><code class=" mermaid">classDiagramclass Comment &#123;    &lt;&lt;interface&gt;&gt;    return List    input: List(posts | !commented &amp; browse())&#125;</code></pre><pre><code class=" mermaid">classDiagramclass Praise &#123;    &lt;&lt;interface&gt;&gt;    return List    input: List(comments | !praised)&#125;</code></pre><h3 id="2-3-运行与终止"><a href="#2-3-运行与终止" class="headerlink" title="2.3 运行与终止"></a>2.3 运行与终止</h3><h4 id="2-3-1-变量假设"><a href="#2-3-1-变量假设" class="headerlink" title="2.3.1 变量假设"></a>2.3.1 变量假设</h4><ul><li><p>时间单元</p><p>将系统看作时间t的函数，将仿真实验时间总长设置为<code>T</code>，并将T平均划分为<code>n</code>个时间片<code>t</code></p><ol><li>社区成立时间</li></ol></li><li><p>内部变量</p><ol><li>智能体数量</li><li>智能体发帖概率</li></ol></li><li><p>外部变量</p><ol><li>EPI成员数量</li></ol></li></ul><h4 id="2-3-2-用户行为的模拟"><a href="#2-3-2-用户行为的模拟" class="headerlink" title="2.3.2 用户行为的模拟"></a>2.3.2 用户行为的模拟</h4><ol><li>以平均数学期望概率模拟用户发帖概率</li><li>以统计概率和条件概率确定用户的评论、回复、点赞概率</li></ol><h4 id="2-3-3-程序的终止条件"><a href="#2-3-3-程序的终止条件" class="headerlink" title="2.3.3 程序的终止条件"></a>2.3.3 程序的终止条件</h4><ul><li>以统计概率连接节点并动态更改权重</li><li>以某一节点的度或强度达到某一阈值为终止条件？</li><li>以网络的稠密度达到某一阈值为终止条件？</li></ul><h4 id="2-3-4-系统的运行流程"><a href="#2-3-4-系统的运行流程" class="headerlink" title="2.3.4 系统的运行流程"></a>2.3.4 系统的运行流程</h4><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-keyword">import</span> Agent<br>nodes = <span class="hljs-type">List</span>(Agent())<br>edges<br>n<br><span class="hljs-keyword">while</span> n:<br>  nodes.post()<br>  nodes.browse()<br>  nodes.comment()<br>  nodes.recomment()<br>  nodes.praise()<br>  n--<br>  <span class="hljs-keyword">if</span> strength(one of nodes) &gt;= s <span class="hljs-keyword">or</span> <span class="hljs-built_in">len</span>(edges) &gt;= l:<br>    <span class="hljs-keyword">return</span> (nodes, edges)<br>  <span class="hljs-keyword">return</span> (nodes, edges)<br></code></pre></td></tr></table></figure><h2 id="3-仿真系统的实现"><a href="#3-仿真系统的实现" class="headerlink" title="3 仿真系统的实现"></a>3 仿真系统的实现</h2><p>此两个方案仅为预想，未进行可行性研究</p><h3 id="3-1-基于Python的实现方式"><a href="#3-1-基于Python的实现方式" class="headerlink" title="3.1 基于Python的实现方式"></a>3.1 基于Python的实现方式</h3><ul><li>使用<code>Python</code>编写主体类、接口和其他相关程序</li><li>使用<code>NetworkX</code>建立网络模型</li><li>使用<code>Postgres + Cayley</code>进行数据存储</li></ul><h3 id="3-2-基于NetLogo的实现方式"><a href="#3-2-基于NetLogo的实现方式" class="headerlink" title="3.2 基于NetLogo的实现方式"></a>3.2 基于NetLogo的实现方式</h3><ul><li>选用内置仿真模型</li><li>使用<code>Logo</code>语言自定义仿真模型</li></ul><h2 id="4-实验结果的分析"><a href="#4-实验结果的分析" class="headerlink" title="4 实验结果的分析"></a>4 实验结果的分析</h2><p>此部分内容尚未考虑完善</p><ul><li><p>运用知识交流理论和效率测度指标对实验输出进行解释</p></li><li><p>是否考虑调整网络结构对比在相同规模和密度下，对评论、回复、点赞数量的影响</p></li></ul><h2 id="5-不足与改进"><a href="#5-不足与改进" class="headerlink" title="5 不足与改进"></a>5 不足与改进</h2><h3 id="5-1-1-不足之处"><a href="#5-1-1-不足之处" class="headerlink" title="5.1.1 不足之处"></a>5.1.1 不足之处</h3><ul><li>未考虑网络演化过程中主体的增加</li><li>未考虑交流内容对持续交流的影响</li></ul><h3 id="5-1-2-改进思路"><a href="#5-1-2-改进思路" class="headerlink" title="5.1.2 改进思路"></a>5.1.2 改进思路</h3><ul><li>研究用户增长，在系统中动态添加节点</li><li>可考虑使用文本分析和强化学习融入情感色彩（正向和反向对于持续交流的影响）</li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>研究设计</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Private</tag>
+      
+      <tag>Research</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>信息检索运算符使用方法</title>
+    <link href="/p/a9baf53c.html"/>
+    <url>/p/a9baf53c.html</url>
+    
+    <content type="html"><![CDATA[<h2 id="检索算符"><a href="#检索算符" class="headerlink" title="检索算符"></a>检索算符</h2><ol><li>布尔算符</li><li>截词检索符</li><li>限制检索符</li><li>位置逻辑检索符</li><li>加权检索</li></ol><h2 id="用法如下："><a href="#用法如下：" class="headerlink" title="用法如下："></a>用法如下：</h2><ol><li>布尔逻辑算符：</li></ol><p>布尔检索式是采用逻辑加（“OR”或“+”）、逻辑乘（“AND”或“*”） 和逻辑非（“NOT”或“—”）等算符，指定文献的标引词中必须存在的条件或不能出现的条件。</p><p>采用“OR”（“+”）算符时，检索式写作A OR B（即A + B），表明数据库中凡有检索词A或者B，或同时有A和B的记录均为命中记录。使用逻辑或可连接同一检索组面的多个同义词、近义词和相关词，扩大检索范围。</p><p>采用“AND”（“<em>”）算符时，检索式写作A AND B（即A </em> B），表明数据库中同时有检索词A和B的记录才为命中记录。逻辑与可增强检索的专指性，缩小检索范围。</p><p>采用“NOT”（“—”）算符时，检索式写作A NOT B（即A — B），表明数据库中凡有检索词A而不含检索词B的记录才为命中记录。使用逻辑非可以排除不希望出现的概念，增强检索的准确性。</p><p>布尔检索式优先执行顺序通常是NOT、AND、OR，在有括号的情况下，先执行括号内的逻辑运算，在多层括号时，先执行最内层括号中的运算。布尔检索比较容易掌握，但使用不当会造成大量漏检和误检，特别是非运算符的运用应特别小心，否则会把有用的文献排除了。</p><ol><li>截词检索算符</li></ol><p>在实际检索中，常遇到词干相同、词义相近的检索词，或同一词的单、复数形式，动、名词形式,英美拼法等，所谓截词检索，就是将通配符如“*”、“？”或“$”等等，放在检索词中检索者认为合适的地方截断，用截断的词的一个局部进行检索，并认为凡满足这个词局部中的所有字符（串）的文献，都为命中文献。这样，检索者不必输入完整的检索词。截词方式有多种，按截断的字符数量分，有有限截断和无限截断；按截断的位置分，有后截断、前截断、中间截断。</p><p>后截断，是将截词符号放在一个字符串的右方，满足截词符左方所有字符的记录都为命中记录。从性质上讲，这是一种前方一致的检索。</p><p>前截断，是将截词符放在一个字符串的左方，表示其右的有限或无限个字符不影响该字符串的检索，或者说这是一种后方一致检索，对汉语中的复合词组的检索非常方便。前截断和后截断可以结合使用，即中间一致检索。</p><p>所谓有限截词，是在检索词后截去有限的字母，例如输入computer? ?，表示“？”可以有0-1个字母变化，系统即检出带有computer和computers的文献；输入stud??? ?，表示截三个字母，可检索出带有study, studies, studied和studing等的文献。无限截词是在检索词根后加一个“？”，表示该词后带任意字母的词都需要，如输入comput? 则可检出含有computers, computing, computered等的文献。</p><ol><li>限制检索算符</li></ol><p>在编制检索式时，使用字段限制检索符可以限定检索词在数据库中出现的范围，对命中太多的记录再行筛选。如检索式：AU=Gordon? AND PY=199?，表示查找Gordon所写的、于1990年后发表的所有文献。这种字段检索可由代表文献内容特征的基本索引（Basic Index）字段和代表文献外表特征的辅助索引（Additional Index）字段中的单元词（Word）或多元词（Phrase）构成，前者含有所有与主题内容相关的词，如书目型数据库中的题目、文摘、规范词字段中的叙词等，后者含有记录中除基本索引字段外的那部分信息，如作者、语种、出版年等。</p><ol><li>位置逻辑检索算符</li></ol><p>又称全文查找逻辑算符，相邻度检索算符，原文检索符。由于布尔检索的“AND”运算要求AND两边的检索词在同一记录中同时存在才能命中文献，这就可能会引起误组配而造成大量误检，而位置逻辑检索是以原始记录中检索词与检索词间特定的位置关系为逻辑运算的对象，检索词用位置算符相连，就可以弥补布尔检索的缺陷。此外，这种检索也不必依赖先组式词表而直接使用自由词进行检索，因而可使检索结果更准确。</p><p>位置逻辑检索算符可分为：</p><ul><li>词位置检索算符</li><li>同句检索算符</li><li>同字段检索算符</li><li>同记录检索算符</li></ul><p>（1）词位置检索算符</p><p>即要求检索词之间的相互位置满足某些条件而使用的检索算符：</p><p>（W）与（nW）——(W)算符是“word”或“with”的缩写，表示此算符两边的检索词词序不能颠倒，两个词之间可有一个空格、或一个标点符号、或一个连接号；(nW)则表示两个检索词之间最多嵌入n个词。例如，检索“CD-ROM”，则可用 ？S CD（W）ROM；而用price(2W)inflation , 则可能检出price levels and inflation。</p><p>（N）与（nN）——（N）算符是“near”的缩写，表示此算符两边的检索词必须紧密相连，此间不允许插入其他单词或字母，但词序可以颠倒，而（nN）算符则表示在两个检索词之间最多可以插入n个单词，且词序可以颠倒。如，？S econom??(2N)recovery，可以检出：economic recovery, recovery of the economy, recovery from economic troubles。</p><p>（X）与（nX）——（X）算符要求其两边的检索词完全一致，并以指定的顺序相邻，中间不允许插入任何单词或字母；（nX）算符则表示两边的检索词之间最多可以插入n个单元词，但两边的检索词也必须一致。</p><p>词位置检索是很有用的检索技术，它可以规定词组中各词的前后次序，防止错误的搭配和输出；它也可以替代词组中的禁用词。DIALOG系统有9个禁用词：AND、FOR、THE、AN、FROM、TO、BY、OF、WITH，如果在编制检索式时碰到禁用词，就要用词位置算符代替它。</p><p>（2）同句检索算符</p><p>要求参加检索运算的两个词必须在同一自然句中出现，其先后顺序不受限制，可用算符（S）（S是Sentence的首字母）。同句检索放宽了词位置检索的要求，使表达同一概念但不满足词位置条件的文献也可以被检索出来，从而提高了查全率。</p><p>同字段检索算符：对同句检索条件进一步放宽，可以用算符（F）、（L）、进行同字段检索。（F）（“Field”的首字母）表示各检索词必须同时出现在文献记录的某个或某些字段中，词序可变，字段类型可用后缀符限定。如：？select market ? (F) information/DE,TI说明market? 和information两个词必须同时出现在叙词字段或题名字段中。（L）（Link的首字母）要求检索词同在叙词字段（DE）中出现，并具有词表规定的等级关系。因此该算符只适用于有正式词表、且词表中的词具有从属关系的数据库。如iron(L)corrosion表示corrosion （腐蚀）是iron (铁)的下属词。</p><p>（3）还有同记录检索符</p><p>用位置算符（C）要求它两侧的检索词同在一条数据库记录中出现，如A（C）B，其检索效果与布尔算符的检索式A AND B相同。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>默认分类</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Search</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>从PageRank到CoRank</title>
+    <link href="/p/1fb84bb.html"/>
+    <url>/p/1fb84bb.html</url>
+    
+    <content type="html"><![CDATA[<p>[TOC]</p><h2 id="1-PageRank算法"><a href="#1-PageRank算法" class="headerlink" title="1 PageRank算法"></a>1 PageRank算法</h2><h3 id="1-1-算法来源"><a href="#1-1-算法来源" class="headerlink" title="1.1 算法来源"></a>1.1 算法来源</h3><p>网页文本检索系统根据用户查询关键词与网页内容的相关程度来返回搜索结果，但是搜索结果未能体现页面的重要性。某些网页也可以通过堆砌关键词使自己的搜索排名靠前。于是，谷歌的两位创始人，当时还是美国斯坦福大学（Stanford University）研究生的佩奇（Larry Page）和布林（Sergey Brin）开始了对网页排序问题的研究。他们借鉴了学术界评判学术论文重要性的通用方法——论文的引用次数，于1998年提出了PageRank网页排序算法<sup id="fnref:1" class="footnote-ref"><a href="#fn:1" rel="footnote"><span class="hint--top hint--rounded" aria-label="[BRIN S, PAGE L. The anatomy of a large-scale hypertextual Web search engine[J]. Computer Networks and ISDN Systems, 1998, 30(1–7): 107–117. DOI:10.1016/s0169-7552(98)00110-x.](https://www.sciencedirect.com/science/article/abs/pii/S016975529800110X?via%3Dihub)">[1]</span></a></sup>。PageRank算法的核心思想非常简单：</p><ul><li><p><strong>如果一个网页被很多其他网页链接到的话，说明这个网页比较重要，其PageRank值会相对较高</strong></p></li><li><p><strong>如果一个PageRank值很高的网页链接到一个其他的网页，那么被链接到的网页的PageRank值会相应地提高</strong></p></li></ul><p>如下图所示:</p><p><img src="../../img/post/study/page-rank-mind.png" alt="图1-1: PageRank算法概念图" style="zoom:67%;" /></p><h3 id="1-2-算法原理"><a href="#1-2-算法原理" class="headerlink" title="1.2 算法原理"></a>1.2 算法原理</h3><p>互联网中的众多网页可以看作一个有向图。下图是一个简单的例子：</p><p><img src="../../img/post/study/pr-1.jpeg" alt="图1-2"></p><p>此时，A的PR值就可以表示为：</p><script type="math/tex; mode=display">PR(A) = PR(B) + PR(C)</script><p>然而图中除了C之外，B和D都不止有一条出链，所以上面的计算式并不准确。想象一个用户现在在浏览B网页，那么下一步他打开A网页还是D网页在统计上应该是相同概率的。所以A的PR值应该表述为：</p><script type="math/tex; mode=display">PR(A) = \frac{PR(B)}{2} + \frac{PR(C)}{1}</script><p>互联网中不乏一些没有出链的网页，如下图：</p><p><img src="../../img/post/study/pr-2.jpeg" alt="图1-3"></p><p>图中的C网页没有出链，对其他网页没有PR值的贡献，我们不喜欢这种自私的网页（其实是为了满足 Markov 链的收敛性），于是设定其对所有的网页（包括它自己）都有出链，则此图中A的PR值可表示为：</p><script type="math/tex; mode=display">PR(A) = \frac{PR(B)}{2} + \frac{PR(C)}{4}</script><p>然而我们再考虑一种情况：互联网中一个网页只有对自己的出链，或者几个网页的出链形成一个循环圈。那么在不断地迭代过程中，这一个或几个网页的PR值将只增不减，显然不合理。如下图中的C网页就是刚刚说的只有对自己的出链的网页：</p><p><img src="../../img/post/study/pr-3.jpeg" alt="图1-4"></p><p>可以继续考虑以下几种情况:</p><blockquote><ol><li>完全网络</li><li>散点网络</li><li>环网络</li><li>悬挂节点</li></ol></blockquote><p>为了解决这个问题。我们想象一个随机浏览网页的人，当他到达C网页后，显然不会傻傻地一直被C网页的小把戏困住。我们假定他有一个确定的概率会输入网址直接跳转到一个随机的网页，并且跳转到每个网页的概率是一样的。于是则此图中A的PR值可表示为：</p><script type="math/tex; mode=display">PR(A) = \alpha(\frac{PR(B)}{2}) + \frac{(1 - \alpha)}{4}</script><p>在一般情况下，一个网页的PR值计算如下：</p><script type="math/tex; mode=display">PR(p_{i}) = \alpha \sum_{p_{j} \in M_{p_{i}}} \frac{PR(p_{j})}{L(p_{j})} + \frac{(1 - \alpha)}{N}</script><p>其中，$M_{p_i}$是网页$p_i$所有的入链网页集合，$L(p_j)$是网页$p_j$的出链数目，$N$是网页总数，$\alpha$一般取0.85。</p><blockquote><p><strong>此处可略过不看</strong></p><p>(5)也可以表示为：</p><script type="math/tex; mode=display">PR_{i}(t) = (1-c) \sum_{j=1}^n a_{ji}\frac{PR_{j}(t-1)}{k_{j}^{out}} + \frac{c}{n}</script><p>论文中还给出了一个简易计算方法：</p><script type="math/tex; mode=display">PR(A) = (1-d) + d(\frac{PR(T_{1})}{C(T_{1})} + \dots + \frac{PR(T_{i})}{C(T_{i})})</script></blockquote><p>PageRank算法总的来说就是预先给每个网页一个PR值（下面用PR值指代PageRank值），由于PR值物理意义上为一个网页被访问概率，所以一般是$\frac{1}{N}$，其中$N$是网页总数。因此，一般情况下，所有网页的PR值的总和为1（归一化）。如果不为1的话也可以，最后算出来的不同网页之间PR值的大小关系仍然是正确的，只是不能直接地反映概率了。预先给定PR值后，通过PageRank算法不断迭代，直至达到平稳为止。</p><h3 id="1-3-算法证明"><a href="#1-3-算法证明" class="headerlink" title="1.3 算法证明"></a>1.3 算法证明</h3><p>PageRank算法的证明主要包括两点，设$P_{n}$为第$n$次迭代时各网页PR值组成的列向量<sup id="fnref:2" class="footnote-ref"><a href="#fn:2" rel="footnote"><span class="hint--top hint--rounded" aria-label="[PageRank算法从原理到实现](https://www.cnblogs.com/rubinorth/p/5799848.html)">[2]</span></a></sup>：</p><ol><li>$\lim\limits_{n \to \infty}P_n$是否存在？</li><li>如果存在，极限是否与$P_0$的选取无关？</li></ol><p>为了方便证明，先将PR值的计算方法转换一下。仍然以上面例子来说：</p><p><img src="../../img/post/study/pr-3.jpeg" alt="图1-5"></p><p>可以用一个矩阵来表示这张图的出链入链关系，$S_{ij}=0$表示$j$网页没有对$i$网页的出链：</p><p>取$e$为所有分量都为 1 的列向量，定义矩阵：</p><script type="math/tex; mode=display">A = \alpha S + \frac{(1 - \alpha)}{N}ee^T</script><p>则PR值的计算如下，其中$P_n$为第$n$次迭代时各网页PR值组成的列向量：</p><script type="math/tex; mode=display">P_{n+1} = A^T P_{n}</script><p>于是计算PR值的过程就变成了一个Markov过程，PageRank算法的证明也就转为证明Markov过程的收敛性证明：如果这个 Markov 过程收敛，那么$\lim\limits<em>{n \to \infty}P</em>{n}$ 存在，且与$P_0$的选取无关。</p><p>若一个Markov过程收敛，那么它的状态转移矩阵$A$需要满足：</p><ol><li>A为随机矩阵</li><li>A是不可约的</li><li>A是非周期的</li></ol><p><strong>第一点</strong>：随机矩阵又叫概率矩阵或 Markov 矩阵，满足以下条件：</p><script type="math/tex; mode=display">令a_{ij}为矩阵A中第i行第j列的元素，则\forall i = 1 \dots n, j = 1 \dots n, a_{ij} \geq 0, 且\forall i = 1 \dots n, \sum_{j = 1}^n a_{ij} = 1</script><p>显然我们的$A$矩阵所有元素都大于等于0，并且每一列的元素和都为1。</p><p><strong>第二点</strong>：方阵$A$是不可约的当且仅当与A对应的有向图是强联通的。有向图$G=(V, E)$是强联通的当且仅当对每一对节点对$u,v∈V$，存在从$u$到$v$的路径。因为我们在之前设定用户在浏览页面的时候有确定概率通过输入网址的方式访问一个随机网页，所以$A$矩阵同样满足不可约的要求。</p><p><strong>第三点</strong>：所谓周期性，体现在Markov链的周期性上。即若$A$是周期性的，那么这个Markov链的状态就是周期性变化的。因为A是素矩阵（素矩阵(本原矩阵, 若一个n阶非负不可约矩阵(A的模=单特征值的个数)的单特征值个数为1，则称A为本原矩阵。)指自身的某个次幂为正矩阵的矩阵），所以A是非周期的。</p><p>至此，我们证明了PageRank算法的正确性。</p><h3 id="1-4-算法设计"><a href="#1-4-算法设计" class="headerlink" title="1.4 算法设计"></a>1.4 算法设计</h3><h4 id="1-4-1-幂迭代法"><a href="#1-4-1-幂迭代法" class="headerlink" title="1.4.1 幂迭代法"></a>1.4.1 幂迭代法</h4><p>首先给每个页面赋予随机的PR值，然后通过$P_{n+1}=AP_n$不断地迭代PR值。当满足下面的不等式后迭代结束，获得所有页面的PR值：</p><script type="math/tex; mode=display">|P_{n+1} - P_{n}| < \epsilon</script><h4 id="1-4-2-特征值法"><a href="#1-4-2-特征值法" class="headerlink" title="1.4.2 特征值法"></a>1.4.2 特征值法</h4><p>当上面提到的Markov链收敛时，随机矩阵必有特征值1，且其特征向量所有分量全为正或全为负：</p><script type="math/tex; mode=display">P = AP \Rightarrow P为矩阵A特征值1对应的特征向量</script><h4 id="1-4-3-代数法"><a href="#1-4-3-代数法" class="headerlink" title="1.4.3 代数法"></a>1.4.3 代数法</h4><p>相似的，当上面提到的Markov链收敛时，必有：</p><script type="math/tex; mode=display">\begin{equation}\begin{split}P = AP &\Rightarrow P = \lgroup \alpha S + \frac{(1 - \alpha)}{N}ee^T \rgroup P \\\\又&\because e为所有分量都为 1 的列向量，P的所有分量之和为1 \\\\&\Rightarrow P = \alpha SP + \frac{(1 - \alpha)}{N}e \\\\&\Rightarrow (ee^T - \alpha S)P = \frac{(1 - \alpha)}{N}e \\\\&\Rightarrow P = (ee^T - \alpha S)^{-1} \frac{(1 - \alpha)}{N}e\end{split}\end{equation}</script><h3 id="1-5-算法实现"><a href="#1-5-算法实现" class="headerlink" title="1.5 算法实现"></a>1.5 算法实现</h3><p>对于以下网页关系:</p><p><img src="../../img/post/study/pr-4.jpeg" alt="图1-6"></p><p>算法运行结果如下：</p><p><img src="../../img/post/study/pr-5.jpeg" alt="图1-7"></p><h4 id="1-5-1-基于迭代的实现"><a href="#1-5-1-基于迭代的实现" class="headerlink" title="1.5.1 基于迭代的实现"></a>1.5.1 基于迭代的实现</h4><p>使用Python基于python-graph-core库实现。</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-keyword">from</span> pygraph.classes.digraph <span class="hljs-keyword">import</span> digraph<br><br><br><span class="hljs-keyword">class</span> <span class="hljs-title class_">PRIterator</span>:<br>    __doc__ = <span class="hljs-string">&#x27;&#x27;&#x27;计算一张图中的PR值&#x27;&#x27;&#x27;</span><br><br>    <span class="hljs-keyword">def</span> <span class="hljs-title function_">__init__</span>(<span class="hljs-params">self, dg</span>):<br>        self.damping_factor = <span class="hljs-number">0.85</span>  <span class="hljs-comment"># 阻尼系数,即α</span><br>        self.max_iterations = <span class="hljs-number">100</span>  <span class="hljs-comment"># 最大迭代次数</span><br>        self.min_delta = <span class="hljs-number">0.00001</span>  <span class="hljs-comment"># 确定迭代是否结束的参数,即ϵ</span><br>        self.graph = dg<br><br>    <span class="hljs-keyword">def</span> <span class="hljs-title function_">page_rank</span>(<span class="hljs-params">self</span>):<br>        <span class="hljs-comment">#  先将图中没有出链的节点改为对所有节点都有出链</span><br>        <span class="hljs-keyword">for</span> node <span class="hljs-keyword">in</span> self.graph.nodes():<br>            <span class="hljs-keyword">if</span> <span class="hljs-built_in">len</span>(self.graph.neighbors(node)) == <span class="hljs-number">0</span>:<br>                <span class="hljs-keyword">for</span> node2 <span class="hljs-keyword">in</span> self.graph.nodes():<br>                    digraph.add_edge(self.graph, (node, node2))<br><br>        nodes = self.graph.nodes()<br>        graph_size = <span class="hljs-built_in">len</span>(nodes)<br><br>        <span class="hljs-keyword">if</span> graph_size == <span class="hljs-number">0</span>:<br>            <span class="hljs-keyword">return</span> &#123;&#125;<br>        page_rank = <span class="hljs-built_in">dict</span>.fromkeys(nodes, <span class="hljs-number">1.0</span> / graph_size)  <span class="hljs-comment"># 给每个节点赋予初始的PR值</span><br>        damping_value = (<span class="hljs-number">1.0</span> - self.damping_factor) / graph_size  <span class="hljs-comment"># 公式中的(1−α)/N部分</span><br><br>        flag = <span class="hljs-literal">False</span><br>        <span class="hljs-keyword">for</span> i <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(self.max_iterations):<br>            change = <span class="hljs-number">0</span><br>            <span class="hljs-keyword">for</span> node <span class="hljs-keyword">in</span> nodes:<br>                rank = <span class="hljs-number">0</span><br>                <span class="hljs-keyword">for</span> incident_page <span class="hljs-keyword">in</span> self.graph.incidents(node):  <span class="hljs-comment"># 遍历所有“入射”的页面</span><br>                    rank += self.damping_factor * (page_rank[incident_page] / <span class="hljs-built_in">len</span>(self.graph.neighbors(incident_page)))<br>                rank += damping_value<br>                change += <span class="hljs-built_in">abs</span>(page_rank[node] - rank)  <span class="hljs-comment"># 绝对值</span><br>                page_rank[node] = rank<br><br>            <span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;This is NO.%s iteration&quot;</span> % (i + <span class="hljs-number">1</span>))<br>            <span class="hljs-built_in">print</span>(page_rank)<br><br>            <span class="hljs-keyword">if</span> change &lt; self.min_delta:<br>                flag = <span class="hljs-literal">True</span><br>                <span class="hljs-keyword">break</span><br>        <span class="hljs-keyword">if</span> flag:<br>            <span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;finished in %s iterations!&quot;</span> % node)<br>        <span class="hljs-keyword">else</span>:<br>            <span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;finished out of 100 iterations!&quot;</span>)<br>        <span class="hljs-keyword">return</span> page_rank<br><br><br><span class="hljs-keyword">if</span> __name__ == <span class="hljs-string">&#x27;__main__&#x27;</span>:<br>    dg = digraph()<br><br>    dg.add_nodes([<span class="hljs-string">&quot;A&quot;</span>, <span class="hljs-string">&quot;B&quot;</span>, <span class="hljs-string">&quot;C&quot;</span>, <span class="hljs-string">&quot;D&quot;</span>, <span class="hljs-string">&quot;E&quot;</span>])<br><br>    dg.add_edge((<span class="hljs-string">&quot;A&quot;</span>, <span class="hljs-string">&quot;B&quot;</span>))<br>    dg.add_edge((<span class="hljs-string">&quot;A&quot;</span>, <span class="hljs-string">&quot;C&quot;</span>))<br>    dg.add_edge((<span class="hljs-string">&quot;A&quot;</span>, <span class="hljs-string">&quot;D&quot;</span>))<br>    dg.add_edge((<span class="hljs-string">&quot;B&quot;</span>, <span class="hljs-string">&quot;D&quot;</span>))<br>    dg.add_edge((<span class="hljs-string">&quot;C&quot;</span>, <span class="hljs-string">&quot;E&quot;</span>))<br>    dg.add_edge((<span class="hljs-string">&quot;D&quot;</span>, <span class="hljs-string">&quot;E&quot;</span>))<br>    dg.add_edge((<span class="hljs-string">&quot;B&quot;</span>, <span class="hljs-string">&quot;E&quot;</span>))<br>    dg.add_edge((<span class="hljs-string">&quot;E&quot;</span>, <span class="hljs-string">&quot;A&quot;</span>))<br><br>    pr = PRIterator(dg)<br>    page_ranks = pr.page_rank()<br><br>    <span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;The final page rank is\n&quot;</span>, page_ranks)<br></code></pre></td></tr></table></figure><p>运行结果：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs bash">finished <span class="hljs-keyword">in</span> 36 iterations!<br>The final page rank is<br>&#123;<span class="hljs-string">&#x27;A&#x27;</span>: 0.2963453309000821, <span class="hljs-string">&#x27;C&#x27;</span>: 0.11396451042168992, <span class="hljs-string">&#x27;B&#x27;</span>: 0.11396451042168992, <span class="hljs-string">&#x27;E&#x27;</span>: 0.31334518664434013, <span class="hljs-string">&#x27;D&#x27;</span>: 0.16239975107315852&#125;<br></code></pre></td></tr></table></figure><h4 id="1-5-2-基于MapReduce的实现"><a href="#1-5-2-基于MapReduce的实现" class="headerlink" title="1.5.2 基于MapReduce的实现"></a>1.5.2 基于MapReduce的实现</h4><p>参考引用资料<sup id="fnref:3" class="footnote-ref"><a href="#fn:3" rel="footnote"><span class="hint--top hint--rounded" aria-label="[Using MapReduce to compute PageRank](http://michaelnielsen.org/blog/using-mapreduce-to-compute-pagerank/)">[3]</span></a></sup>实现</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-comment"># 暂无</span><br></code></pre></td></tr></table></figure><h3 id="1-6-算法的缺点"><a href="#1-6-算法的缺点" class="headerlink" title="1.6 算法的缺点"></a>1.6 算法的缺点</h3><p>PR算法有几个缺点<sup id="fnref:2" class="footnote-ref"><a href="#fn:2" rel="footnote"><span class="hint--top hint--rounded" aria-label="[PageRank算法从原理到实现](https://www.cnblogs.com/rubinorth/p/5799848.html)">[2]</span></a></sup>，这里我们主要关注其中一个：</p><p>算法规定从当前网页上随机跳转到下一个网页的概率都相同，然而这并不符合现实中人们的网页浏览方式，明显在内容丰富的网页上浏览时相比一个无趣的网页，人们跳转页面的概率大不相同。此外，随机最优参数$\alpha$的选取需要通过实验获得，对于不同的网络，参数的大小也不相同，不存在一个普遍参数。</p><h2 id="2-LeaderRank算法"><a href="#2-LeaderRank算法" class="headerlink" title="2 LeaderRank算法"></a>2 LeaderRank算法</h2><p>在许多在线社区中，用户可以选择其他用户作为他们的“意见领袖”。 我们通过一个网络来表示这些<code>User—User</code>关系，该网络具有从粉丝指向其领袖的有向链接，核心意见领袖会有大量的入链。目标是根据此网络拓扑对所有用户进行重要性排名。</p><p>为解决上述PageRank算法的缺点，在识别社交网络中高影响力用户时，吕琳媛等提出了改进的LeaderRank算法<sup id="fnref:4" class="footnote-ref"><a href="#fn:4" rel="footnote"><span class="hint--top hint--rounded" aria-label="[LÜ L, ZHANG Y-C, YEUNG C H, et al. Leaders in Social Networks, the Delicious Case[J]. PLoS ONE, 2011, 6(6): e21202. DOI:10.1371/journal.pone.0021202.](https://doi.org/10.1371/journal.pone.0021202)">[4]</span></a></sup><sup id="fnref:5" class="footnote-ref"><a href="#fn:5" rel="footnote"><span class="hint--top hint--rounded" aria-label="[LeaderRank](https://www.centiserver.org/?q1=centrality&q2=LeaderRank)">[5]</span></a></sup>。通过向网络中增加一个与原网络所有节点双向链接“基准节点”，取代PageRank算法中人为指定的随机跳转概率参数，同时提高了算法的收敛速度。</p><h3 id="2-1-算法思路"><a href="#2-1-算法思路" class="headerlink" title="2.1 算法思路"></a>2.1 算法思路</h3><p>设想一个由 N 个节点和 M 个有向链路组成的网络G。节点对应用户，链接根据领袖和粉丝之间的关系建立。为了对用户进行排名，我们引入了一个“基准节点”，该节点通过双向链接连接到每个用户（见图2-1）。G因此变为了由$N+1$个节点和$M+2N$条边构成的强连通网络。为了开始排序过程，我们为除基准节点之外的每个节点分配一个分数单元，然后通过有向链接将其均匀分配给节点的指向节点。该过程一直持续达到稳定状态。</p><p><img src="../../img/post/study/leader-rank-mind.png" alt="图2-1: LeaderRank算法概念图" style="zoom:40%;" /></p><h3 id="2-2-算法设计"><a href="#2-2-算法设计" class="headerlink" title="2.2 算法设计"></a>2.2 算法设计</h3><p>数学意义上，这个过程相当于有向网络上的随机游走，并且该过程由随机矩阵 P 描述，其中元素$p<em>{ij} = a</em>{ij}/k<em>i^{out}$ 表示随机游走者下一步从 i 走到 j 的概率。如果节点 i 指向 j，则$a</em>{ij}=1$，否则为 0，$k_i^{out}$ 表示出度，即 i 的领袖数量。因此，这个概率流向可以看作粉丝 i 对领袖 j 的投票。</p><p>用$s_i(t)$表示节点 i 在时间 t 的得分，有：</p><script type="math/tex; mode=display">s_{i}(t+1) = \sum_{j=1}^{N+1} \frac{a_{ji}}{k_{j}^{out}} s_{j}(t),  \quad t=0, 1, 2, \dots, n.</script><p>初始分数规则：基准节点的$s_g(0)=0$，其它所有节点 i 的$s_i (0)=1$。</p><p>基准节点的存在使得 P 不可约，因为网络是强连通的。基准节点还确保任何节点的大小为 2 和 3 的环路共存，这意味着 $P^6$ 为正，即 $P^6$ 的所有元素都大于零。由于 $P^n$ 对某些自然数 n 为正，因此 P 是和非负基元矩阵。根据 Perron-Frobenius 定理，P 具有最大特征值 1 和唯一特征向量。</p><p>因此，所有 i 的分数 $s_i(t)$ 将收敛到唯一的稳定状态，表示为 $s_i(t_c)$，其中 $t_c$ 是收敛时间。在稳定状态下，我们将基准节点的分数平均分配给所有其他节点。用户 i 的最终影响力得分S，即：</p><script type="math/tex; mode=display">S_i = s_i(t_c) + \frac{s_g(t_c)}{N}</script><p>其中，$s_g(t_c)$是基准节点在稳态时的得分。</p><h3 id="2-3-算法优点"><a href="#2-3-算法优点" class="headerlink" title="2.3 算法优点"></a>2.3 算法优点</h3><p>基于上述特性，在排名中应用 LeaderRank 有几个优点，包括：</p><ol><li>无参数</li><li>广泛适用于任何类型的图</li><li>收敛到唯一的排名序列</li><li>初始条件的独立性</li></ol><h3 id="2-4-算法实现"><a href="#2-4-算法实现" class="headerlink" title="2.4 算法实现"></a>2.4 算法实现</h3><figure class="highlight matlab"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br></pre></td><td class="code"><pre><code class="hljs matlab"><span class="hljs-comment">% This is a Matlab M−file for LeaderRank.</span><br><br>E=load(<span class="hljs-string">&#x27;Network.dat&#x27;</span>); <span class="hljs-comment">% Read the network data with different pairs</span><br><span class="hljs-comment">% of &#x27;fan leader&#x27; in consecutive rows, and  the</span><br><span class="hljs-comment">% labels of nodes should start from 1</span><br>l=<span class="hljs-built_in">length</span>(E);<span class="hljs-comment">% l is the number of links</span><br>N=<span class="hljs-built_in">max</span>(<span class="hljs-built_in">max</span>(E));<span class="hljs-comment">% N is the number of nodes.</span><br><br><span class="hljs-comment">% Add ground node and create adjacency matrix P</span><br>EG1=<span class="hljs-built_in">zeros</span>(N, <span class="hljs-number">2</span>);<span class="hljs-comment">% N rows 2 cols</span><br>EG2=<span class="hljs-built_in">zeros</span>(N, <span class="hljs-number">2</span>);<br><span class="hljs-keyword">for</span> <span class="hljs-built_in">i</span>=<span class="hljs-number">1</span>:N<br>EG1(<span class="hljs-built_in">i</span>, <span class="hljs-number">1</span>)=N+<span class="hljs-number">1</span>;<br>EG1(<span class="hljs-built_in">i</span>, <span class="hljs-number">2</span>)=<span class="hljs-built_in">i</span>;<br><span class="hljs-keyword">end</span><br>EG2(:, <span class="hljs-number">1</span>)=EG1(:, <span class="hljs-number">2</span>);<br>EG2(:, <span class="hljs-number">2</span>)=EG1(:, <span class="hljs-number">1</span>);<br>E=[E; EG1; EG2];<br>P=sparse(E(:, <span class="hljs-number">1</span>), E(:, <span class="hljs-number">2</span>), <span class="hljs-number">1</span>);<br>D_in=sum(P);<span class="hljs-comment">% in degree</span><br>D_out=sum(P&#x27;);<span class="hljs-comment">% out degree</span><br><br><span class="hljs-comment">% Transition matrix PP</span><br>EE=<span class="hljs-built_in">zeros</span>(N+<span class="hljs-number">1</span>, <span class="hljs-number">2</span>);<br><span class="hljs-keyword">for</span> <span class="hljs-built_in">j</span>=<span class="hljs-number">1</span>:N+<span class="hljs-number">1</span><br>EE(<span class="hljs-built_in">j</span>, <span class="hljs-number">1</span>)=<span class="hljs-built_in">j</span>;<br>EE(<span class="hljs-built_in">j</span>, <span class="hljs-number">2</span>)=<span class="hljs-number">1</span>/D_out(<span class="hljs-built_in">j</span>);<br><span class="hljs-keyword">end</span><br>D=sparse(EE(:, <span class="hljs-number">1</span>), EE(:, <span class="hljs-number">1</span>), EE(:, <span class="hljs-number">2</span>));<br>PP=D∗P;<br><br><span class="hljs-comment">% Diffusion to stable state.</span><br>God=<span class="hljs-built_in">zeros</span>(N+<span class="hljs-number">1</span>, <span class="hljs-number">1</span>);<br>God(<span class="hljs-number">1</span>:N, <span class="hljs-number">1</span>)=<span class="hljs-number">1</span>;<span class="hljs-comment">% Assign initial resource</span><br>error=<span class="hljs-number">10000</span>;<span class="hljs-comment">% error is the average error of nodes&#x27; scores.</span><br>error_threshold=<span class="hljs-number">0.00002</span>;<span class="hljs-comment">% It is a tunable parameter controlling the</span><br><span class="hljs-comment">% error tolerance.</span><br>step=<span class="hljs-number">1</span>;<br><span class="hljs-keyword">while</span> error&gt;error_threshold<br>step<br>M=God;<br>God=PP&#x27;∗God;<span class="hljs-comment">% P&#x27; means the transpose of P</span><br>error=sum(<span class="hljs-built_in">abs</span>(God−M)./M)/(N+<span class="hljs-number">1</span>);<br>step=step+<span class="hljs-number">1</span>;<br><span class="hljs-keyword">end</span><br>b=God(N+<span class="hljs-number">1</span>)/N;<br>God=God+b;<br>God(N+<span class="hljs-number">1</span>)=<span class="hljs-number">0</span>;<br><br><span class="hljs-comment">% Write the ranking results to &quot;Results.dat&quot;: node&#x27;s ID &amp; Score</span><br>R=<span class="hljs-built_in">zeros</span>(N, <span class="hljs-number">2</span>);<br>R(:, <span class="hljs-number">1</span>)=[<span class="hljs-number">1</span>:N]&#x27;;<br>R(:, <span class="hljs-number">2</span>)=God(<span class="hljs-number">1</span>:N);<br>[b, pos]=<span class="hljs-built_in">sort</span>(−R(:, <span class="hljs-number">2</span>));<br>R=R(pos, :);<br>fid=fopen(<span class="hljs-string">&#x27;Results.dat&#x27;</span>, <span class="hljs-string">&#x27;w&#x27;</span>);<br><span class="hljs-keyword">for</span> <span class="hljs-built_in">i</span>=<span class="hljs-number">1</span>:N<br>fprintf(fid, <span class="hljs-string">&#x27;%d%f\n&#x27;</span>, R(<span class="hljs-built_in">i</span>, <span class="hljs-number">1</span>), R(<span class="hljs-built_in">i</span>, <span class="hljs-number">2</span>));<br><span class="hljs-keyword">end</span><br>fclose(fid);<br></code></pre></td></tr></table></figure><h2 id="3-CoRank算法"><a href="#3-CoRank算法" class="headerlink" title="3 CoRank算法"></a>3 CoRank算法</h2><h3 id="3-1-算法构思"><a href="#3-1-算法构思" class="headerlink" title="3.1 算法构思"></a>3.1 算法构思</h3><h3 id="3-2-子算法设计"><a href="#3-2-子算法设计" class="headerlink" title="3.2 子算法设计"></a>3.2 子算法设计</h3><h4 id="3-2-1-基础属性重要性算法"><a href="#3-2-1-基础属性重要性算法" class="headerlink" title="3.2.1 基础属性重要性算法"></a>3.2.1 基础属性重要性算法</h4><script type="math/tex; mode=display">w_{bp} = |\vec x| = \sqrt{x_1^2+x_2^2+\dots+x_n^2}</script><p>模长 or 特征向量中心性？</p><h4 id="3-2-2-基于临域相似度的节点核心度算法"><a href="#3-2-2-基于临域相似度的节点核心度算法" class="headerlink" title="3.2.2 基于临域相似度的节点核心度算法"></a>3.2.2 基于临域相似度的节点核心度算法</h4><script type="math/tex; mode=display">\begin{align}LLS(i) &= \sum_{a, b \in n_i} (1-sim(a,b)) + c \notag \\&= k_i - \sum_{a, b \in n_i} sim(a, b) + c \\\end{align}</script><p>$if \qquad sim(a,b) = 1 \qquad then \qquad c = \frac {2}{n_i(n_i-1)} \notag \qquad else \qquad c = 0$</p><h4 id="3-2-3-节点综合情感权重算法"><a href="#3-2-3-节点综合情感权重算法" class="headerlink" title="3.2.3 节点综合情感权重算法"></a>3.2.3 节点综合情感权重算法</h4><script type="math/tex; mode=display">w_{ji} = \frac{\sum (e_{ji}^{pos}-e_{ji}^{neg})}{n_{ji}} + r_{ji}</script><p>其中，$w<em>{ji} \in [-1, 1]$，为节点$j$对节点$i$的综合情感权重；$r</em>{ji}$为节点是否互为好友；如果$i=g$, 则$w_{jg} = 0$。</p><h4 id="3-2-4-CoRank-核心用户识别算法"><a href="#3-2-4-CoRank-核心用户识别算法" class="headerlink" title="3.2.4 CoRank 核心用户识别算法"></a>3.2.4 CoRank 核心用户识别算法</h4><p>使用用户$i$到$j$的综合情感倾向作为节点间的有向边权重，生成状态转移矩阵，Ground节点与其它所有节点间的权重均为 1 均值</p><p>i指向g时，w取i指出去的所有值的均值，g指向i时，w为1/N</p><script type="math/tex; mode=display">s_{i}(t+1) = \sum_{j=1}^{N+1} \frac{w_{ji}}{\sum_{l=1}^{N+1}w_{jl}^{out}} s_{j}(t),  \quad t=0, 1, 2, \dots, n.</script><script type="math/tex; mode=display">S_i = s_i(t_c) + \frac{s_g(t_c)}{N}</script><p>负值乘以负权重？怎么传递？还是平移量纲？</p><p>平移量纲，使得$w_e \in [0, 2]$，如果$i=g$, 则$w_e = 1$。</p><p>以式（16）和（17）的结果归一化后求和，初始化CR向量</p><script type="math/tex; mode=display">CR_1 = [cr_1^1, cr_2^1, \dots , cr_n^1]^{T} \\迭代n次后的结果 \\CR_n = [cr_1^n, cr_2^n, \dots , cr_n^n]^{T}</script><p>以情感分析结果和式（18）构造状态转移矩阵</p><script type="math/tex; mode=display">A</script><p>则</p><script type="math/tex; mode=display">CR_{n+1} = ACR_{n}</script><h4 id="3-2-5-数据的标准化和归一化方法"><a href="#3-2-5-数据的标准化和归一化方法" class="headerlink" title="3.2.5 数据的标准化和归一化方法"></a>3.2.5 数据的标准化和归一化方法</h4><ul><li><p>Min-Max归一化</p><script type="math/tex; mode=display">X_{norm} = \frac{X_i-X{min}}{X_{max}-X_{min}}</script></li><li><p>均值标准化</p><script type="math/tex; mode=display">X_{std} = \frac{X_i-\mu}{\sigma}</script></li></ul><h3 id="3-3-算法实现A-gt-B-一样效果"><a href="#3-3-算法实现A-gt-B-一样效果" class="headerlink" title="3.3 算法实现A-&gt;B: 一样效果"></a>3.3 算法实现A-&gt;B: 一样效果</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs sequence">A-&gt;B: react<br></code></pre></td></tr></table></figure><h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><section class="footnotes"><div class="footnote-list"><ol><li><span id="fn:1" class="footnote-text"><span><a href="https://www.sciencedirect.com/science/article/abs/pii/S016975529800110X?via%3Dihub">BRIN S, PAGE L. The anatomy of a large-scale hypertextual Web search engine[J]. Computer Networks and ISDN Systems, 1998, 30(1–7): 107–117. DOI:10.1016/s0169-7552(98)00110-x.</a><a href="#fnref:1" rev="footnote" class="footnote-backref"> ↩</a></span></span></li><li><span id="fn:2" class="footnote-text"><span><a href="https://www.cnblogs.com/rubinorth/p/5799848.html">PageRank算法从原理到实现</a><a href="#fnref:2" rev="footnote" class="footnote-backref"> ↩</a></span></span></li><li><span id="fn:3" class="footnote-text"><span><a href="http://michaelnielsen.org/blog/using-mapreduce-to-compute-pagerank/">Using MapReduce to compute PageRank</a><a href="#fnref:3" rev="footnote" class="footnote-backref"> ↩</a></span></span></li><li><span id="fn:4" class="footnote-text"><span><a href="https://doi.org/10.1371/journal.pone.0021202">LÜ L, ZHANG Y-C, YEUNG C H, et al. Leaders in Social Networks, the Delicious Case[J]. PLoS ONE, 2011, 6(6): e21202. DOI:10.1371/journal.pone.0021202.</a><a href="#fnref:4" rev="footnote" class="footnote-backref"> ↩</a></span></span></li><li><span id="fn:5" class="footnote-text"><span><a href="https://www.centiserver.org/?q1=centrality&amp;q2=LeaderRank">LeaderRank</a><a href="#fnref:5" rev="footnote" class="footnote-backref"> ↩</a></span></span></li></ol></div></section>]]></content>
+    
+    
+    <categories>
+      
+      <category>算法</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Private</tag>
+      
+      <tag>PageRank</tag>
+      
+      <tag>LeaderRank</tag>
+      
+      <tag>CoRank</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>在内网环境中配置Jupyter Notebook服务</title>
+    <link href="/p/fde983e1.html"/>
+    <url>/p/fde983e1.html</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    <categories>
+      
+      <category>实践记录</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Jupyter Notebook</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>搭建Hexo博客</title>
+    <link href="/p/c1d5d64c.html"/>
+    <url>/p/c1d5d64c.html</url>
+    
+    <content type="html"><![CDATA[<h1 id="环境"><a href="#环境" class="headerlink" title="环境"></a>环境</h1><p>Hexo是一款静态博客引擎。可以解析Markdown在内的多种文件类型，将它们输出为静态的HTML文件以供部署。需要准备的环境有：</p><ul><li>Node</li><li>Git</li></ul><h1 id="Hexo项目"><a href="#Hexo项目" class="headerlink" title="Hexo项目"></a>Hexo项目</h1><p>首先安装Hexo CLI工具</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">npm install hexo-cli -g<br></code></pre></td></tr></table></figure><p>初始化项目</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo init &lt;hexo-project&gt;<br><span class="hljs-built_in">cd</span> &lt;hexo-project&gt;<br>yarn<br></code></pre></td></tr></table></figure><p>等待依赖安装完成，运行：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo server --debug<br></code></pre></td></tr></table></figure><p>访问<a href="http://localhost:4000">http://localhost:4000</a>，如果能看到下面的页面，博客项目已经建立完成了</p><p><img src="../img/post/hexo.png" alt="博客初始页面" style="zoom:50%;" /></p><p>事实上，你可以在Hexo的<a href="https://hexo.io/zh-cn/docs/">官网</a>上查看这些信息，上面比我描述的要详细很多。</p><h1 id="安装Fluid主题"><a href="#安装Fluid主题" class="headerlink" title="安装Fluid主题"></a>安装Fluid主题</h1><p>可以使用包管理工具安装</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">yarn add hexo-theme-fluid<br></code></pre></td></tr></table></figure><p>安装完成后在项目的根目录下建立主题配置文件<code>_config.fluid.yml</code>，并将<a href="https://github.com/fluid-dev/hexo-theme-fluid/blob/master/_config.yml">配置文件</a>的内容拷贝进去即可。</p><h1 id="使用github-io托管"><a href="#使用github-io托管" class="headerlink" title="使用github.io托管"></a>使用github.io托管</h1><p>在GitHub中新建一个repo，命名为<code>username.github.io</code>。注意，username必须使用的GitHub用户名，否则无法直接通过github.io提供的二级域名访问。</p><p>在Hexo的配置文件<code>_config.yml</code>中进行如下配置</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-comment"># Deployment</span><br><span class="hljs-comment">## Docs: https://hexo.io/docs/one-command-deployment</span><br><span class="hljs-attr">deploy:</span><br>  <span class="hljs-attr">type:</span> <span class="hljs-string">git</span><br>  <span class="hljs-attr">repo:</span> <span class="hljs-string">git@github.com:jbiter/jbiter.github.io.git</span><br>  <span class="hljs-attr">branch:</span> <span class="hljs-string">main</span><br></code></pre></td></tr></table></figure><p>确保项目中已经安装了用于发布博客的依赖<code>hexo-deployer-git</code>，使用Hexo CLI提供的命令即可将博客发布到github.io中。发布前新建<code>source/CNAME</code>文件，若未解析自定义域名，留空即可。</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo generate --deploy<br></code></pre></td></tr></table></figure><h1 id="有用的依赖"><a href="#有用的依赖" class="headerlink" title="有用的依赖"></a>有用的依赖</h1><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs javascript">dependencies = [<br>    <span class="hljs-string">&quot;hexo-deployer-git&quot;</span>, <span class="hljs-comment">// 用于自动化发布博客</span><br>    <span class="hljs-string">&quot;hexo-generator-sitemap&quot;</span>,<br>    <span class="hljs-string">&quot;hexo-generator-baidu-sitemap&quot;</span>, <span class="hljs-comment">// 生成站点地图</span><br>    <span class="hljs-string">&quot;hexo-memorial-day&quot;</span> <span class="hljs-comment">// 在纪念日将网站置灰</span><br>]<br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    <categories>
+      
+      <category>实践记录</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Hexo</tag>
+      
+      <tag>Markdown</tag>
+      
+      <tag>Mermaid</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
